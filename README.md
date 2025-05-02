@@ -44,13 +44,13 @@ This project focuses on the generation of **Digital Elevation Models (DEMs)** us
 ## 📊 Project Diagrams
 
 ### 🔁 Workflow Diagram
-![Workflow Diagram](docs/workflow_diagram.png)
+![Workflow Diagram](docs/workflow_diagram.jpg)
 
 ### 🧩 Activity Diagram
-![Activity Diagram](docs/activity_diagram.png)
+![Activity Diagram](docs/activity_diagram.jpg)
 
 ### 🔄 Sequence Diagram
-![Sequence Diagram](docs/sequence_diagram.png)
+![Sequence Diagram](docs/sequence_diagram.jpg)
 
 ---
 
